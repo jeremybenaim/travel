@@ -21,3 +21,8 @@ Jeremy's travel log/planner
 - Shanghai
 - Bali
 - Hong Kong
+
+### Resources
+
+- Flights: [Skyscanner](http://skyscanner.com)
+- Hostels: [Hostelworld](http://www.hostelworld.com)
