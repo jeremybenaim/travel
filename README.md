@@ -24,5 +24,8 @@ Jeremy's travel log/planner
 
 ### Resources
 
-- :airplane: Flights: [Skyscanner](http://skyscanner.com)
-- :hotel: Hostels: [Hostelworld](http://www.hostelworld.com)
+####  :airplane: Flights:
+- [Skyscanner](http://skyscanner.com)
+
+#### :hotel: Hostels: 
+- [Hostelworld](http://www.hostelworld.com)
