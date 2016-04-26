@@ -6,23 +6,23 @@ Jeremy's travel log/planner
 
 ![Map](/map.png)
 
-- Paris
-- Moscow
-- Ulaanbaatar
-- Beijing
-- Hanoi
-- Bangkok
-- Yangon
-- Old Bagan
-- Phnom Penh
-- Seoul
-- Tokyo
-- Kyoto
-- Shanghai
-- Bali
-- Hong Kong
+-  Paris
+-  Moscow
+-  Ulaanbaatar
+-  Beijing
+-  Hanoi
+-  Bangkok
+-  Yangon
+-  Old Bagan
+-  Phnom Penh
+-  Seoul
+-  Tokyo
+-  Kyoto
+-  Shanghai
+-  Bali
+-  Hong Kong
 
 ### Resources
 
-- Flights: [Skyscanner](http://skyscanner.com)
-- Hostels: [Hostelworld](http://www.hostelworld.com)
+- :airplane: Flights: [Skyscanner](http://skyscanner.com)
+- :hotel: Hostels: [Hostelworld](http://www.hostelworld.com)
