@@ -29,3 +29,6 @@ Jeremy's travel log/planner
 
 #### :hotel: Hostels: 
 - [Hostelworld](http://www.hostelworld.com)
+
+#### links:
+- http://wikitravel.org/en/Trans-Siberian_Railway
