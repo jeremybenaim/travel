@@ -10,17 +10,18 @@ Jeremy's travel log/planner
 -  Moscow
 -  Ulaanbaatar
 -  Beijing
+-  Seoul
+-  Tokyo
+-  Kyoto
+-  Shanghai
+-  Hong Kong
 -  Hanoi
 -  Bangkok
 -  Yangon
 -  Old Bagan
 -  Phnom Penh
--  Seoul
--  Tokyo
--  Kyoto
--  Shanghai
 -  Bali
--  Hong Kong
+
 
 ### Resources
 
