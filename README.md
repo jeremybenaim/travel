@@ -31,5 +31,8 @@ Jeremy's travel log/planner
 #### :hotel: Hostels: 
 - [Hostelworld](http://www.hostelworld.com)
 
-#### links:
+#### :page_facing_up: Visas:
+- [Action Visas](http://action-visas.com)
+
+#### :paperclip:  Links:
 - http://wikitravel.org/en/Trans-Siberian_Railway
