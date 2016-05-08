@@ -12,6 +12,28 @@
       "coordinates": [ 2.3522219000000177, 48.85661400000001 ]
     }
   }, {
+  "type": "Feature",
+    "properties": {
+      "marker-color": "#f55",
+      "marker-size": "medium",
+      "name": "Tallinn"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 24.753574, 59.436962 ]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "marker-color": "#f55",
+      "marker-size": "medium",
+      "name": "St Petersburg"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 30.335099, 59.934280 ]
+    }
+  }, {
     "type": "Feature",
     "properties": {
       "marker-color": "#f55",
@@ -76,17 +98,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [ 135.76802939999993, 35.01163629999999 ]
-    }
-  }, {
-    "type": "Feature",
-    "properties": {
-      "marker-color": "#f55",
-      "marker-size": "medium",
-      "name": "Shanghai"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [ 121.473701, 31.230416 ]
     }
   }, {
     "type": "Feature",
