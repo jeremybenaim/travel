@@ -27,7 +27,7 @@ Jeremy's travel log/planner
 -  Phnom Penh
 -  Bali
 
-* not added to the .geojson (yet)
+= * not added to the .geojson (yet)
 
 ### Resources
 
