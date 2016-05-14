@@ -43,3 +43,4 @@ Jeremy's travel log/planner
 #### :paperclip: Links:
 - http://wikitravel.org/en/Trans-Siberian_Railway
 - http://www.seat61.com/
+- https://www.japan-rail-pass.fr/ and http://www.japanrailpass.net/fr/index.html
