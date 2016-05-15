@@ -1,7 +1,5 @@
 # /travel
 
-Jeremy's travel log/planner
-
 [View map](https://github.com/jeremybenaim/travel/blob/master/cities.geojson)
 
 ## Itinerary (work in progress)
