@@ -10,7 +10,6 @@ Jeremy's travel log/planner
 -  :airplane: Tallinn
 -  :train: St Petersburg
 -  :train: Moscow
--  _Potential trans-siberian stops *_
 -  :mountain_railway: Ulaanbaatar
 -  :mountain_railway: Beijing
 -  :ship: Seoul
@@ -31,7 +30,7 @@ Jeremy's travel log/planner
 
 ### Resources
 
-####  :airplane: Flights:
+#### :airplane: Flights:
 - [Skyscanner](http://skyscanner.com)
 
 #### :hotel: Hostels:
@@ -40,7 +39,10 @@ Jeremy's travel log/planner
 #### :page_facing_up: Visas:
 - [Action Visas](http://action-visas.com)
 
+#### :train: Trains:
+- :ru: http://www.visitrussia.com/ and http://pass.rzd.ru/main-pass/public/en and http://realrussia.co.uk/
+- :jp: https://www.japan-rail-pass.fr/ and http://www.japanrailpass.net/fr/index.html
+
 #### :paperclip: Links:
 - http://wikitravel.org/en/Trans-Siberian_Railway
 - http://www.seat61.com/
-- https://www.japan-rail-pass.fr/ and http://www.japanrailpass.net/fr/index.html
