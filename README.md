@@ -42,6 +42,7 @@ Departure date  |    Leg                              |  Est. Price
 
 #### :hotel: Hostels:
 - [Hostelworld](http://www.hostelworld.com)
+- [AirBnb](https://www.airbnb.com/)
 
 #### :page_facing_up: Visas:
 - [Action Visas](http://action-visas.com)
