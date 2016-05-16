@@ -3,13 +3,13 @@
 [View map](https://github.com/jeremybenaim/travel/blob/master/cities.geojson)
 
 ## Itinerary (work in progress)
-Departure date  |    Leg                              |  Est. Price
-----------------|-------------------------------------|--------------
-~ 22 Aug        |    Avion️: Paris - Tallin            |   ~100€
-~ 26 Aug        |    Train: Tallinn - St Petersburg   |   ~15-20€
-~ 2 Sep         |    Train: St Petersburg - Moscou    |   ~30€
-= 6 Sep         |    Train: Moscou - Ulan Bator       |   ~300-350€
-= 22 Sep        |    Train: Ulan Bator – Beijing      |   ~150-200€
+Departure date  |    Leg                             |  Est. Price
+----------------|------------------------------------|--------------
+~ 22 Aug        |    Paris :airplane: Tallin         |   ~100€
+~ 26 Aug        |    Tallinn :train: St Petersburg   |   ~15-20€
+~ 2 Sep         |    St Petersburg :train: Moscou    |   ~30€
+= 6 Sep         |    Moscou :train: Ulan Bator       |   ~300-350€
+= 22 Sep        |    Ulan Bator :train: Beijing      |   ~150-200€
 
 ### Cities
 
