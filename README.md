@@ -7,10 +7,14 @@ Departure date  |    Leg                             |  Est. Price
 ----------------|------------------------------------|--------------
 ~ 22 Aug        |    Paris :airplane: Tallin         |   ~100€
 ~ 26 Aug        |    Tallinn :train: St Petersburg   |   ~15-20€
-~ 2 Sep         |    St Petersburg :train: Moscou    |   ~30€
-= 6 Sep         |    Moscou :train: Ulan Bator       |   ~300-350€
-= 22 Sep        |    Ulan Bator :train: Beijing      |   ~150-200€
-
+~ 2 Sep         |    St Petersburg :train: Moscow    |   ~30€
+= 6 Sep         |    Moscow :train: Ulaanbaatar      |   ~300-350€
+= 22 Sep        |    Ulaanbaatar :train: Beijing     |   ~150-200€
+ ¯\\_(ツ)_/¯    |    Beijing :ship: Seoul           |  ¯\\_(ツ)_/¯
+ ¯\\_(ツ)_/¯    |    Seoul > Japan                  |  ¯\\_(ツ)_/¯
+ ¯\\_(ツ)_/¯    |    Japan > Hong Kong              |  ¯\\_(ツ)_/¯
+ ¯\\_(ツ)_/¯    |    Hong Kong > South East Asia    |  ¯\\_(ツ)_/¯
+ 
 ### Cities
 
 -  Paris
