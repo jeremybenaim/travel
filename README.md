@@ -58,3 +58,4 @@ Departure date  |    Leg                             |  Est. Price
 #### :paperclip: Links:
 - http://wikitravel.org/en/Trans-Siberian_Railway
 - http://www.seat61.com/
+- http://notesofnomads.com/top-travel-tips-trans-siberian-trans-mongolian-railways/
