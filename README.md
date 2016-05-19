@@ -14,7 +14,7 @@ Departure date  |    Leg                             |  Est. Price
  ¯\\_(ツ)_/¯    |    Seoul > Japan                   |  ¯\\_(ツ)_/¯
  ¯\\_(ツ)_/¯    |    Japan > Hong Kong               |  ¯\\_(ツ)_/¯
  ¯\\_(ツ)_/¯    |    Hong Kong > South East Asia     |  ¯\\_(ツ)_/¯
- 
+
 ### Cities
 
 -  Paris
