@@ -44,6 +44,9 @@ Departure date  | Leg                                             | Est. Price
 
 = * not added to the .geojson (yet)
 
+### Currencies (as of May 20th)
+1 Euro (EUR) ≈ 74.95 Russian Rubles (RUB) ≈ 2240.93 Mongolian Tugrik (MNT) ≈ 7.35 Chinese Yuan (CNY) ≈ 123.59 Japanese Yen (JPY) ≈ 25k Vietnamese Dong (VND) ≈ 4555.87 Cambodian Riel (KHR) ≈ 40.05 Thai Baht (THB)
+
 ### Resources
 
 #### :airplane: Flights:
