@@ -1,6 +1,6 @@
 # /moscow
 
-#### To see
+### To see
 - Lenin's Mausoleum
 - Red Square
 - Kremlin
@@ -11,5 +11,5 @@
 - Tsar Bell
 - + pretty much all churches and crazy architecture stuff
 
-#### To sleep
+### To sleep
 - Napoleon Hostel or GoodMood Hostel or Apple Hostel
