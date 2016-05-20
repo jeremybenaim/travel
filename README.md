@@ -3,17 +3,20 @@
 [View map](https://github.com/jeremybenaim/travel/blob/master/cities.geojson)
 
 ## Itinerary (work in progress)
-Departure date  |    Leg                             |  Est. Price
-----------------|------------------------------------|--------------
-~ 22 Aug        |    Paris :airplane: Tallin         |   ~100€
-~ 26 Aug        |    Tallinn :train: St Petersburg   |   ~15-20€
-~ 2 Sep         |    St Petersburg :train: Moscow    |   ~30€
-= 6 Sep         |    Moscow :train: Ulaanbaatar      |   ~300-350€
-18 or 22 Sep    |    Ulaanbaatar :train: Beijing     |   ~150-250€
- ¯\\_(ツ)_/¯    |    Beijing :ship: Seoul            |  ¯\\_(ツ)_/¯
- ¯\\_(ツ)_/¯    |    Seoul > Japan                   |  ¯\\_(ツ)_/¯
- ¯\\_(ツ)_/¯    |    Japan > Hong Kong               |  ¯\\_(ツ)_/¯
- ¯\\_(ツ)_/¯    |    Hong Kong > South East Asia     |  ¯\\_(ツ)_/¯
+
+Departure date  | Leg                                             | Est. Price
+----------------|-------------------------------------------------|-------------
+~ 22 Aug        | Paris :airplane: Tallin                         |  ~100€
+~ 26 Aug        | Tallinn :train: St Petersburg                   |  ~15-20€
+~ 2 Sep         | St Petersburg :train: Moscow (Red Arrow Train)  |  ~30€
+= 6 Sep         | Moscow :train: Ulaanbaatar (Transmongolian)     |  ~300-350€
+18 or 22 Sep    | Ulaanbaatar :train: Beijing (Transmongolian)    |  ~150-250€
+ ¯\\_(ツ)_/¯    | Beijing :ship: Seoul                            | ¯\\_(ツ)_/¯
+ ¯\\_(ツ)_/¯    | Seoul > Japan                                   | ¯\\_(ツ)_/¯
+ ¯\\_(ツ)_/¯    | Japan > Hong Kong                               | ¯\\_(ツ)_/¯
+ ¯\\_(ツ)_/¯    | Hong Kong > Hanoi                               | ¯\\_(ツ)_/¯
+ ¯\\_(ツ)_/¯    | Hanoi :train: Huế (Reunification Express)       | ¯\\_(ツ)_/¯
+ ¯\\_(ツ)_/¯    | Huế :train: Ho Chi Minh (Reunification Express) | ¯\\_(ツ)_/¯
 
 ### Cities
 
@@ -31,6 +34,8 @@ Departure date  |    Leg                             |  Est. Price
 -  :bullettrain_side: Kyoto
 -  :airplane: Hong Kong
 -  Hanoi
+-  Huế *
+-  Ho Chi Minh *
 -  Bangkok
 -  Yangon
 -  Old Bagan
@@ -56,6 +61,6 @@ Departure date  |    Leg                             |  Est. Price
 - :jp: https://www.japan-rail-pass.fr/ and http://www.japanrailpass.net/fr/index.html
 
 #### :paperclip: Links:
-- http://wikitravel.org/en/Trans-Siberian_Railway
+- http://wikitravel.org/en/Trans-Siberian_Railway (all http://wikitravel.org/ actually)
 - http://www.seat61.com/
 - http://notesofnomads.com/top-travel-tips-trans-siberian-trans-mongolian-railways/
