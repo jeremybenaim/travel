@@ -10,3 +10,6 @@
 - Fallen Monument Park
 - Tsar Bell
 - + pretty much all churches and crazy architecture stuff
+
+#### To sleep
+- Napoleon Hostel or GoodMood Hostel or Apple Hostel
