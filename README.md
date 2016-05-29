@@ -8,7 +8,7 @@ Departure date  | Leg                                             | Est. Price
 ----------------|-------------------------------------------------|-------------
 ~ 22 Aug        | Paris :airplane: Tallin                         |  ~100€
 ~ 26 Aug        | Tallinn :train: St Petersburg                   |  ~15-20€
-~ 2 Sep         | St Petersburg :train: Moscow                    |  ~30€-115€ (for Red Arrow)
+~ 2 Sep         | St Petersburg :train: Moscow                    |  ~30€-115€ (for Red Arrow or Grand Express)
 = 6 Sep         | Moscow :train: Ulaanbaatar (Transmongolian)     |  ~300-350€
 18 or 22 Sep    | Ulaanbaatar :train: Beijing (Transmongolian)    |  ~150-250€
  ¯\\_(ツ)_/¯    | Beijing :ship: Seoul                            | ¯\\_(ツ)_/¯
