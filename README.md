@@ -23,7 +23,7 @@ Departure date  | Leg                                             | Est. Price
 -  Paris
 -  :airplane: Tallinn
 -  :train: St Petersburg
--  :train: Moscow
+-  :train: Moscow  (first weekend of September is the City Day :tada:)
 -  :mountain_railway: Ulaanbaatar
 -  :mountain_railway: Beijing
 -  :ship: Seoul
