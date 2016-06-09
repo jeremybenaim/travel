@@ -25,7 +25,7 @@ Departure date  | Leg                                             | Est. Price
 -  :train: St Petersburg
 -  :train: Moscow  (first weekend of September is the City Day :tada:)
 -  :mountain_railway: Ulaanbaatar
--  :mountain_railway: Beijing
+-  :mountain_railway: Beijing (National Day on October 1st :tada: )
 -  :ship: Seoul
 -  :airplane: Tokyo
 -  :bullettrain_side: Mount Fuji *
