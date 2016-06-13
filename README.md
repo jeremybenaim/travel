@@ -66,5 +66,6 @@ Departure date  | Leg                                             | Est. Price
 #### :paperclip: Links:
 - http://wikitravel.org/en/Trans-Siberian_Railway (all http://wikitravel.org/ actually)
 - http://www.seat61.com/
+- http://www.seat61.com/Map-southeast-asia-train-routes.htm
 - http://notesofnomads.com/top-travel-tips-trans-siberian-trans-mongolian-railways/
 - http://goasia.about.com/od/whentogo/a/Asia-in-October.htm
