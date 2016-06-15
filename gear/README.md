@@ -1,1 +1,68 @@
 # /gear
+
+## An actual bag 
+- [ ] [1 Minaal Carry-on 2.0](http://www.minaal.com/products/carry-on-2-0-bag)
+
+## What I'll be wearing
+- [x] jeans
+- [ ] hiking-ish shoes
+- [ ] sunglasses
+- [x] 1 t-shirt with some crappy band logo printed on it 
+- [x] 1 
+- [x] Underwears (duh)
+
+## What I'll be carrying
+- [x] 5 days of socks
+- [x] 5 days of sexy panties
+- [ ] 1 outdoor pants and/or shorts
+- [ ] 1-2 shirt(s)
+- [x] 2-3 t-shirts
+- [x] 1 hoodie
+- [x] 1 pair of flip flops
+- [ ] 1 spork (i.e. SPOonfoRKnife)
+- [ ] 1 Swiss Army Knife
+- [ ] 1 water filtering bottle (with purification system)
+- [ ] 1 thermos-ish thingie with a cup and all
+- [ ] 1 silk liner
+- [ ] 1 microfiber towel
+- [ ] 1 first aid kit (a)
+- [ ] 1 toiletries bag (b) 
+- [ ] Electronics (c)
+- [ ] Documents (d)
+- [ ] x disposable bags 
+- [ ] x ziplocs
+
+### (a) First Aid Kit
+- [ ] medicines (for stomachache, headaches, other treatmants)
+- [ ] bandages, etc
+- TBD
+
+### (b) Toiletries
+- [ ] 1 tootbrush
+- [ ] 1 hairbrush
+- [ ] toothpaste
+- [ ] deodorant
+- [ ] tissues
+- [ ] cleansing towelettes
+- [ ] hand sanitizer
+- [ ] T.P. (toilet paper, sealed in a nice ziploc :ok_hand:)
+- [ ] sunscreen 
+- [ ] moisturizing cream
+- [ ] shower gel
+- [ ] shampoo
+
+### (c) Electronics
+- [ ] Laptop + cables
+- [ ] adapter
+- [x] iPhone + cables
+- [x] white wires
+- [ ] GoPro + cables
+- [ ] Kindle
+
+### (d) Documents & Misc.
+- [ ] passport
+- [ ] printed copy(ies ?) of the passport
+- [ ] visas and other official papers I might need
+- [ ] prescriptions (for crossing borders w/ medicines)
+- [ ] 1 Moleskine + pen
+- [ ] disposable copies of various stuff (plans, cyrillic or chinese names that might be helpful, etc)
