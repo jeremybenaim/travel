@@ -8,7 +8,7 @@
 - [ ] hiking-ish shoes
 - [ ] sunglasses
 - [x] 1 t-shirt with some crappy band logo printed on it 
-- [x] 1 
+- [x] 1 shirt to look cool
 - [x] Underwears (duh)
 
 ## What I'll be carrying
