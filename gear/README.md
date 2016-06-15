@@ -25,17 +25,17 @@
 - [ ] 1 thermos-ish thingie with a cup and all
 - [ ] 1 silk liner
 - [ ] 1 microfiber towel
-- [ ] 1 first aid kit ([a](https://github.com/jeremybenaim/travel/blob/master/gear/README.md#a-first-aid-kit))
-- [ ] 1 toiletries bag ([b](https://github.com/jeremybenaim/travel/tree/master/gear#b-toiletries)) 
-- [ ] Electronics ([c](https://github.com/jeremybenaim/travel/blob/master/gear/README.md#c-electronics))
-- [ ] Documents ([d](https://github.com/jeremybenaim/travel/blob/master/gear/README.md#d-documents--misc))
+- [ ] [First Aid Kit](https://github.com/jeremybenaim/travel/blob/master/gear/README.md#a-first-aid-kit)
+- [ ] [Toiletries bag](https://github.com/jeremybenaim/travel/tree/master/gear#b-toiletries)
+- [ ] [Electronics](https://github.com/jeremybenaim/travel/blob/master/gear/README.md#c-electronics)
+- [ ] [Documents & Misc.](https://github.com/jeremybenaim/travel/blob/master/gear/README.md#d-documents--misc)
 - [ ] x disposable bags 
 - [ ] x ziplocs
 
 ### (a) First Aid Kit
 - [ ] medicines (for stomachache, headaches, other treatmants)
 - [ ] bandages, etc
-- TBD
+- [ ] other stuff TBD
 
 ### (b) Toiletries
 - [ ] 1 tootbrush
