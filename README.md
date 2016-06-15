@@ -1,6 +1,8 @@
 # /travel
 
-[View map](https://github.com/jeremybenaim/travel/blob/master/cities.geojson)
+[View map (.geojson)](https://github.com/jeremybenaim/travel/blob/master/cities.geojson)
+
+[Google Map](https://www.google.com/maps/d/u/1/edit?mid=1bnooPmMNt33NSRK2YAVpEtV_uGA)
 
 ## Itinerary (work in progress)
 
