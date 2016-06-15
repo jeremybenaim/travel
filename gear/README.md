@@ -19,6 +19,7 @@
 - [x] 2-3 t-shirts
 - [x] 1 hoodie
 - [x] 1 pair of flip flops
+- [ ] 1 multifunctional headwear thingie (who can be worn as a scarf & other)
 - [ ] 1 spork (i.e. SPOonfoRKnife)
 - [ ] 1 Swiss Army Knife
 - [ ] 1 water filtering bottle (with purification system)
