@@ -13,7 +13,7 @@
 
 ## What I'll be carrying
 - [x] 5 days of socks
-- [x] 5 days of sexy panties
+- [x] 5 days of sexy underwears
 - [ ] 1 outdoor pants and/or shorts
 - [ ] 1-2 shirt(s)
 - [x] 2-3 t-shirts
