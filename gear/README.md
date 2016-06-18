@@ -67,3 +67,6 @@
 - [ ] prescriptions (for crossing borders w/ medicines)
 - [ ] 1 Moleskine + pen
 - [ ] disposable copies of various stuff (plans, cyrillic or chinese names that might be helpful, etc)
+
+## Helpful links
+- https://www.travelers-checklist.com/
