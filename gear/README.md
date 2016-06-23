@@ -22,7 +22,7 @@
 - [ ] 1 multifunctional headwear thingie (who can be worn as a scarf & other)
 - [ ] 1 spork (i.e. SPOonfoRKnife)
 - [ ] 1 Swiss Army Knife
-- [ ] 1 water filtering bottle (with purification system)
+- [x] 1 water filtering bottle (with purification system)
 - [ ] 1 thermos-ish thingie with a cup and all
 - [ ] 1 silk liner
 - [ ] 1 microfiber towel
@@ -54,18 +54,18 @@
 
 ### (c) Electronics
 - [ ] Laptop + cables
-- [ ] adapter
+- [x] adapter
 - [x] iPhone + cables
 - [x] white wires
-- [ ] GoPro + cables
-- [ ] Kindle
+- [x] GoPro + cable
+- [x] Kindle + cable
 
 ### (d) Documents & Misc.
-- [ ] passport
+- [x] passport
 - [ ] printed copy(ies ?) of the passport
 - [ ] visas and other official papers I might need
-- [ ] prescriptions (for crossing borders w/ medicines)
-- [ ] 1 Moleskine + pen
+- [x] prescriptions (for crossing borders w/ medicines)
+- [x] 1 Moleskine + pen
 - [ ] disposable copies of various stuff (plans, cyrillic or chinese names that might be helpful, etc)
 
 ## Helpful links
