@@ -6,20 +6,18 @@
 
 ## Itinerary (work in progress)
 
-Departure date  | Leg                                             | Est. Price
-----------------|-------------------------------------------------|-------------
-~ 22 Aug        | Paris :airplane: Tallin                         |  ~100€
-~ 26 Aug        | Tallinn :train: St Petersburg                   |  ~15-20€
-~ 2 Sep         | St Petersburg :train: Moscow                    |  ~30€-115€ (for Red Arrow or Grand Express)
-= 6 Sep         | Moscow :train: Ulaanbaatar (Transmongolian)     |  ~300-350€
-18 or 22 Sep    | Ulaanbaatar :train: Beijing (Transmongolian)    |  ~150-250€
- ¯\\_(ツ)_/¯    | Beijing :ship: Seoul                            | ¯\\_(ツ)_/¯
- ¯\\_(ツ)_/¯    | Seoul > Japan                                   | ¯\\_(ツ)_/¯
- ¯\\_(ツ)_/¯    | Japan > Hong Kong                               | ¯\\_(ツ)_/¯
- ¯\\_(ツ)_/¯    | Hong Kong > Hanoi                               | ¯\\_(ツ)_/¯
- ¯\\_(ツ)_/¯    | Hanoi :train: Huế (Reunification Express)       | ¯\\_(ツ)_/¯
- ¯\\_(ツ)_/¯    | Huế :train: Ho Chi Minh (Reunification Express) | ¯\\_(ツ)_/¯
+Booked? | Departure date  | Leg                                             | Est. Price
+--------|----------------|-------------------------------------------------|-------------
+ nope   | 22 Aug         | Paris :airplane: Tallin                         |  ~100€
+ nope   | 26 Aug         | Tallinn :train: St Petersburg                   |  ~15-20€
+ nope   | 2 Sep          | St Petersburg :train: Moscow                    |  ~30€-115€ (for Red Arrow or Grand Express)
+ nope   | 6 Sep          | Moscow :train: Ulaanbaatar (Transmongolian)     |  ~300-350€
+ nope   | 18 or 22 Sep   | Ulaanbaatar :train: Beijing (Transmongolian)    |  ~150-250€
+ nope   | ¯\\_(ツ)_/¯    | Beijing :ship: Seoul                            | ¯\\_(ツ)_/¯
+ nope   | ¯\\_(ツ)_/¯    | Seoul > Japan                                   | ¯\\_(ツ)_/¯
  
+Then… ¯\\_(ツ)_/¯
+
 ### Cities
 
 -  Paris
