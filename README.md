@@ -62,6 +62,7 @@ Then… ¯\\_(ツ)_/¯
 #### :train: Trains:
 - :ru: http://www.visitrussia.com/ and http://pass.rzd.ru/main-pass/public/en and http://realrussia.co.uk/
 - :jp: https://www.japan-rail-pass.fr/ and http://www.japanrailpass.net/fr/index.html
+- :cn: http://www.chinatrainguide.com/
 
 #### :paperclip: Links:
 - http://wikitravel.org/en/Trans-Siberian_Railway (all http://wikitravel.org/ actually)
