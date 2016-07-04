@@ -6,17 +6,18 @@
 
 ## Itinerary (work in progress)
 
-Booked? | Departure date  | Leg                                             | Est. Price
---------|----------------|-------------------------------------------------|-------------
- nope   | 22 Aug         | Paris :airplane: Tallin                         |  ~100€
- nope   | 26 Aug         | Tallinn :train: St Petersburg                   |  ~15-20€
- nope   | 2 Sep          | St Petersburg :train: Moscow                    |  ~30€-115€ (for Red Arrow or Grand Express)
- nope   | 6 Sep          | Moscow :train: Ulaanbaatar (Transmongolian)     |  ~300-350€
- nope   | 18 or 22 Sep   | Ulaanbaatar :train: Beijing (Transmongolian)    |  ~150-250€
- nope   | ¯\\_(ツ)_/¯    | Beijing :ship: Seoul                            | ¯\\_(ツ)_/¯
- nope   | ¯\\_(ツ)_/¯    | Seoul > Japan                                   | ¯\\_(ツ)_/¯
+Booked? | Departure date  | Leg                                                         | Est. Price
+--------|----------------|--------------------------------------------------------------|-------------
+ nope   | 22 Aug         | Paris :airplane: Tallin                                      |  ~100€
+ nope   | 26 Aug         | Tallinn :train: St Petersburg                                |  ~15-20€
+ nope   | 2 Sep          | St Petersburg :train: Moscow                                 |  ~30€-115€ (for Red Arrow or Grand Express)
+ nope   | 6 Sep          | Moscow :train: Ulaanbaatar (Transmongolian)                   |  ~300-350€
+ nope   | 18 or 22 Sep   | Ulaanbaatar :train: Beijing (Transmongolian)                 |  ~150-250€
+ nope   | 22 Sep - 7 Oct | China                                                        | ¯\\_(ツ)_/¯
+ nope   | 8 Oct          | China > Seoul                                                | ¯\\_(ツ)_/¯
+ nope   | ~13 Oct        | Seoul > [Japan](https://www.youtube.com/watch?v=GKrqDzljhc0) | ¯\\_(ツ)_/¯
  
-Then… ¯\\_(ツ)_/¯
+ Then… ¯\\_(ツ)_/¯
 
 ### Cities
 
