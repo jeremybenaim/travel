@@ -5,8 +5,8 @@
 
 ## What I'll be wearing
 - [x] jeans
-- [ ] hiking-ish shoes
-- [ ] sunglasses
+- [x] hiking-ish shoes
+- [x] sunglasses
 - [x] 1 t-shirt with some crappy band logo printed on it 
 - [x] 1 shirt to look cool
 - [x] Underwears (duh)
@@ -25,7 +25,7 @@
 - [x] 1 water filtering bottle (with purification system)
 - [ ] 1 thermos-ish thingie with a cup and all
 - [ ] 1 silk liner
-- [ ] 1 microfiber towel
+- [x] 1 microfiber towel
 - [ ] [First Aid Kit](https://github.com/jeremybenaim/travel/blob/master/gear/README.md#a-first-aid-kit)
 - [ ] [Toiletries bag](https://github.com/jeremybenaim/travel/tree/master/gear#b-toiletries)
 - [ ] [Electronics](https://github.com/jeremybenaim/travel/blob/master/gear/README.md#c-electronics)
