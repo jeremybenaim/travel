@@ -12,8 +12,8 @@ Booked? | Departure date  | Leg                                                 
  nope   | 26 Aug         | Tallinn :train: St Petersburg                                |  ~15-20€
  nope   | 2 Sep          | St Petersburg :train: Moscow                                 |  ~30€-115€ (for Red Arrow or Grand Express)
  nope   | 6 - 11 Sep     | Moscow :train: Ulaanbaatar (Transmongolian)                   |  ~300-350€
- nope   | 18 Sep         | Ulaanbaatar :train: Beijing (Transmongolian)                 |  ~150-250€
- nope   | 22 Sep - 7 Oct | China                                                        | ¯\\_(ツ)_/¯
+ nope   | 18 - 19 Sep    | Ulaanbaatar :train: Beijing (Transmongolian)                 |  ~150-250€
+ nope   | 19 Sep - 7 Oct | China                                                        | ¯\\_(ツ)_/¯
  nope   | 8 Oct          | China > Seoul                                                | ¯\\_(ツ)_/¯
  nope   | ~13 Oct        | Seoul > [Japan](https://www.youtube.com/watch?v=GKrqDzljhc0) | ¯\\_(ツ)_/¯
  
