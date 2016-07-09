@@ -70,3 +70,4 @@
 
 ## Helpful links
 - https://www.travelers-checklist.com/
+- http://uncorneredmarket.com/wp-content/uploads/2014/02/Packing_Checklist_1pager.pdf
