@@ -42,7 +42,7 @@ Then… ¯\\_(ツ)_/¯
 - :cn: http://www.chinatrainguide.com/
 
 #### :paperclip: Links:
-- http://wikitravel.org/en/Trans-Siberian_Railway (all http://wikitravel.org/ actually)
+- https://en.wikivoyage.org/wiki/Trans-Siberian_Railway (all https://wikivoyage.org/ actually)
 - http://www.seat61.com/
 - http://www.seat61.com/Map-southeast-asia-train-routes.htm
 - http://notesofnomads.com/top-travel-tips-trans-siberian-trans-mongolian-railways/
