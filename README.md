@@ -4,16 +4,16 @@
 
 ## Itinerary (work in progress)
 
-Booked? | Departure date  | Leg                                                         | Est. Price
---------|----------------|--------------------------------------------------------------|-------------
- yep    | 22 Aug         | Paris :airplane: Tallin                                      |  =101€
- nope   | 26 Aug         | Tallinn :train: St Petersburg                                |  ~15-20€
- nope   | 2 Sep          | St Petersburg :train: Moscow                                 |  ~30€-115€ (for Red Arrow or Grand Express)
- yep    | 6 - 11 Sep     | Moscow :train: Ulaanbaatar (Transmongolian)                  |  =£300
- yep    | 18 - 19 Sep    | Ulaanbaatar :train: Beijing (Transmongolian)                 |  =£191
- nope   | 19 Sep - 7 Oct | China                                                        | ¯\\_(ツ)_/¯
- nope   | 8 Oct          | China > Seoul                                                | ¯\\_(ツ)_/¯
- nope   | ~13 Oct        | Seoul > [Japan](https://www.youtube.com/watch?v=GKrqDzljhc0) | ¯\\_(ツ)_/¯
+Booked?             | Departure date  | Leg                                                         | Est. Price
+--------------------|----------------|--------------------------------------------------------------|-------------
+ :white_check_mark: | 22 Aug         | Paris :airplane: Tallin                                      |  =101€
+ :white_check_mark: | 26 Aug         | Tallinn :train: St Petersburg                                |  ~15-20€
+ nope               | 2 Sep          | St Petersburg :train: Moscow                                 |  ~30€-115€ (for Red Arrow or Grand Express)
+ :white_check_mark: | 6 - 11 Sep     | Moscow :train: Ulaanbaatar (Transmongolian)                  |  =£300
+ :white_check_mark: | 18 - 19 Sep    | Ulaanbaatar :train: Beijing (Transmongolian)                 |  =£191
+ nope               | 19 Sep - 7 Oct | China                                                        | ¯\\_(ツ)_/¯
+ nope               | 8 Oct          | China > Seoul                                                | ¯\\_(ツ)_/¯
+ nope               | ~13 Oct        | Seoul > [Japan](https://www.youtube.com/watch?v=GKrqDzljhc0) | ¯\\_(ツ)_/¯
  
 Then… ¯\\_(ツ)_/¯
 
