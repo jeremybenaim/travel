@@ -2,7 +2,7 @@
 
 [Google Map](https://www.google.com/maps/d/u/1/edit?mid=1bnooPmMNt33NSRK2YAVpEtV_uGA)
 
-## Itinerary (work in progress)
+## Itinerary
 
 Booked?             | Departure date | Leg                                                          | Est. Price  | Distance (km) | Total Distance (km) | 
 --------------------|----------------|--------------------------------------------------------------|-------------|---------------|---------------------|
