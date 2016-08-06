@@ -8,7 +8,7 @@ Booked?             | Departure date  | Leg                                     
 --------------------|----------------|--------------------------------------------------------------|-------------
  :white_check_mark: | 22 Aug         | Paris :airplane: Tallin                                      |  =101€
  :white_check_mark: | 25 Aug         | Tallinn :train: St Petersburg                                |  ~15-20€
- nope               | 2 Sep          | St Petersburg :train: Moscow                                 |  ~30€-115€ (for Red Arrow or Grand Express)
+ nope               | 1 Sep          | St Petersburg :train: Moscow                                 |  ~30€-115€ (for Red Arrow or Grand Express)
  :white_check_mark: | 6 - 11 Sep     | Moscow :train: Ulaanbaatar (Transmongolian)                  |  =£300
  :white_check_mark: | 18 - 19 Sep    | Ulaanbaatar :train: Beijing (Transmongolian)                 |  =£191
  nope               | 19 Sep - 7 Oct | China                                                        | ¯\\_(ツ)_/¯
