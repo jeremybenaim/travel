@@ -4,7 +4,7 @@
 
 ## Itinerary
 
-Booked?             | Departure date | Leg                                                          | Est. Price  | Distance (km) | Total Distance (km) | 
+Booked?             | Departure date | Leg                                                          | Price       | Distance (km) | Total Distance (km) | 
 --------------------|----------------|--------------------------------------------------------------|-------------|---------------|---------------------|
  :white_check_mark: | 22 Aug         | Paris :airplane: Tallin                                      |  103.16€    | 1 841         | 1 841               |
  :white_check_mark: | 22 - 25 Aug    | :hotel: Stay in Tallinn                                      |             | -             | 1 841               |
