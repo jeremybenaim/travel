@@ -12,9 +12,9 @@ Booked?             | Departure date | Leg                                      
  :white_check_mark: | 25 Aug - 1 Sep | Stay in St Petersburg                                        |  
  :white_check_mark: | 1 - 2 Sep      | St Petersburg :train: Moscow (Grand Express 1st class)       |  89.82€
  nope               | 2 Sep - 6 Sep  | Stay in Moscow                                               |  
- :white_check_mark: | 6 - 11 Sep     | Moscow :train: Ulaanbaatar (Transmongolian)                  |  =£300
+ :white_check_mark: | 6 - 11 Sep     | Moscow :train: Ulaanbaatar (Transmongolian)                  |  ≈350€
  :white_check_mark: | 11 - 18 Sep    | Stay in Ulaanbaatar                                          |  
- :white_check_mark: | 18 - 19 Sep    | Ulaanbaatar :train: Beijing (Transmongolian)                 |  =£191
+ :white_check_mark: | 18 - 19 Sep    | Ulaanbaatar :train: Beijing (Transmongolian)                 |  ≈225€
  nope               | 19 Sep - 7 Oct | China                                                        | ¯\\_(ツ)_/¯
  nope               | 8 Oct          | China > Seoul                                                | ¯\\_(ツ)_/¯
  nope               | ~13 Oct        | Seoul > [Japan](https://www.youtube.com/watch?v=GKrqDzljhc0) | ¯\\_(ツ)_/¯
