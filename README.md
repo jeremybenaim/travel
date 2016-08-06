@@ -4,12 +4,16 @@
 
 ## Itinerary (work in progress)
 
-Booked?             | Departure date  | Leg                                                         | Est. Price
+Booked?             | Departure date | Leg                                                          | Est. Price
 --------------------|----------------|--------------------------------------------------------------|-------------
- :white_check_mark: | 22 Aug         | Paris :airplane: Tallin                                      |  =101€
- :white_check_mark: | 25 Aug         | Tallinn :train: St Petersburg                                |  ~15-20€
- nope               | 1 Sep          | St Petersburg :train: Moscow                                 |  ~30€-115€ (for Red Arrow or Grand Express)
+ :white_check_mark: | 22 Aug         | Paris :airplane: Tallin                                      |  103.16€
+ :white_check_mark: | 22 - 25 Aug    | Stay in Tallinn                                              |  
+ :white_check_mark: | 25 Aug         | Tallinn :train: St Petersburg                                |  38.05€
+ :white_check_mark: | 25 Aug - 1 Sep | Stay in St Petersburg                                        |  
+ :white_check_mark: | 1 - 2 Sep      | St Petersburg :train: Moscow (Grand Express 1st class)       |  89.82€
+ nope               | 2 Sep - 6 Sep  | Stay in Moscow                                               |  
  :white_check_mark: | 6 - 11 Sep     | Moscow :train: Ulaanbaatar (Transmongolian)                  |  =£300
+ :white_check_mark: | 11 - 18 Sep    | Stay in Ulaanbaatar                                          |  
  :white_check_mark: | 18 - 19 Sep    | Ulaanbaatar :train: Beijing (Transmongolian)                 |  =£191
  nope               | 19 Sep - 7 Oct | China                                                        | ¯\\_(ツ)_/¯
  nope               | 8 Oct          | China > Seoul                                                | ¯\\_(ツ)_/¯
@@ -39,7 +43,7 @@ Then… ¯\\_(ツ)_/¯
 #### :train: Trains:
 - :ru: http://www.visitrussia.com/ and http://pass.rzd.ru/main-pass/public/en and http://realrussia.co.uk/
 - :jp: https://www.japan-rail-pass.fr/ and http://www.japanrailpass.net/fr/index.html
-- :cn: http://www.chinatrainguide.com/
+- :cn: http://english.ctrip.com/
 
 #### :paperclip: Links:
 - https://en.wikivoyage.org/wiki/Trans-Siberian_Railway (all https://wikivoyage.org/ actually)
