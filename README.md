@@ -4,20 +4,20 @@
 
 ## Itinerary (work in progress)
 
-Booked?             | Departure date | Leg                                                          | Est. Price
---------------------|----------------|--------------------------------------------------------------|-------------
- :white_check_mark: | 22 Aug         | Paris :airplane: Tallin                                      |  103.16€
- :white_check_mark: | 22 - 25 Aug    | Stay in Tallinn                                              |  
- :white_check_mark: | 25 Aug         | Tallinn :train: St Petersburg                                |  38.05€
- :white_check_mark: | 25 Aug - 1 Sep | Stay in St Petersburg                                        |  
- :white_check_mark: | 1 - 2 Sep      | St Petersburg :train: Moscow (Grand Express 1st class)       |  89.82€
- nope               | 2 Sep - 6 Sep  | Stay in Moscow                                               |  
- :white_check_mark: | 6 - 11 Sep     | Moscow :train: Ulaanbaatar (Transmongolian)                  |  ≈350€
- :white_check_mark: | 11 - 18 Sep    | Stay in Ulaanbaatar                                          |  
- :white_check_mark: | 18 - 19 Sep    | Ulaanbaatar :train: Beijing (Transmongolian)                 |  ≈225€
- nope               | 19 Sep - 7 Oct | China                                                        | ¯\\_(ツ)_/¯
- nope               | 8 Oct          | China > Seoul                                                | ¯\\_(ツ)_/¯
- nope               | ~13 Oct        | Seoul > [Japan](https://www.youtube.com/watch?v=GKrqDzljhc0) | ¯\\_(ツ)_/¯
+Booked?             | Departure date | Leg                                                          | Est. Price  | Distance (km) | Total Distance (km) | 
+--------------------|----------------|--------------------------------------------------------------|-------------|---------------|---------------------|
+ :white_check_mark: | 22 Aug         | Paris :airplane: Tallin                                      |  103.16€    | 1 841         | 1 841               |
+ :white_check_mark: | 22 - 25 Aug    | :hotel: Stay in Tallinn                                      |             | -             | 1 841               |
+ :white_check_mark: | 25 Aug         | Tallinn :train: St Petersburg                                |  38.05€     | 386           | 2 227               |
+ :white_check_mark: | 25 Aug - 1 Sep | :hotel: Stay in St Petersburg                                |             | -             | 2 227               |
+ :white_check_mark: | 1 - 2 Sep      | St Petersburg :train: Moscow (Grand Express 1st class)       |  89.82€     | 650           | 2 877               |
+ nope               | 2 Sep - 6 Sep  | :hotel: Stay in Moscow                                       |             | -             | 2 877               |
+ :white_check_mark: | 6 - 11 Sep     | Moscow :train: Ulaanbaatar (Transmongolian)                  |  ≈350€      | 6 304         | 9 181               |
+ :white_check_mark: | 11 - 18 Sep    | :hotel: Stay in Ulaanbaatar                                  |             | -             | 9 181               |
+ :white_check_mark: | 18 - 19 Sep    | Ulaanbaatar :train: Beijing (Transmongolian)                 |  ≈225€      | 1 550         | 10 731              |
+ nope               | 19 Sep - 7 Oct | :hotel: Stay in Beijing                                      | ¯\\_(ツ)_/¯ | -             | -                   |
+ nope               | 8 Oct          | China > Korea                                                | ¯\\_(ツ)_/¯ | -             | -                   |
+ nope               | ~13 Oct        | Korea > [Japan](https://www.youtube.com/watch?v=GKrqDzljhc0) | ¯\\_(ツ)_/¯ | -             | -                   |
  
 Then… ¯\\_(ツ)_/¯
 
