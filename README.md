@@ -1,6 +1,6 @@
 # /travel
 
-[Google Map](https://www.google.com/maps/d/u/1/edit?mid=1bnooPmMNt33NSRK2YAVpEtV_uGA)
+[View Map :earth_asia:](https://www.google.com/maps/d/u/1/edit?mid=1bnooPmMNt33NSRK2YAVpEtV_uGA)
 
 ## Itinerary
 
@@ -42,13 +42,10 @@ Then… ¯\\_(ツ)_/¯
 - [Action Visas](http://action-visas.com)
 
 #### :train: Trains:
-- :ru: http://www.visitrussia.com/ and http://pass.rzd.ru/main-pass/public/en and http://realrussia.co.uk/
-- :jp: https://www.japan-rail-pass.fr/ and http://www.japanrailpass.net/fr/index.html
+- :ru: http://pass.rzd.ru/main-pass/public/en and http://realrussia.co.uk/
 - :cn: http://english.ctrip.com/
+- :jp: https://www.japan-rail-pass.fr/ and http://www.japanrailpass.net/fr/index.html
 
 #### :paperclip: Links:
 - https://en.wikivoyage.org/wiki/Trans-Siberian_Railway (all https://wikivoyage.org/ actually)
-- http://www.seat61.com/
-- http://www.seat61.com/Map-southeast-asia-train-routes.htm
-- http://notesofnomads.com/top-travel-tips-trans-siberian-trans-mongolian-railways/
-- http://goasia.about.com/od/whentogo/a/Asia-in-October.htm
+- http://www.seat61.com/Map-southeast-asia-train-routes.htm (all http://www.seat61.com/ actually)
