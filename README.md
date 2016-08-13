@@ -2,6 +2,11 @@
 
 [View Map :earth_asia:](https://www.google.com/maps/d/u/1/edit?mid=1bnooPmMNt33NSRK2YAVpEtV_uGA)
 
+##### Map legend:
+- ![Blue pin](http://maps.google.com/mapfiles/kml/paddle/blu-blank_maps.png) current location
+- ![Green pin](http://maps.google.com/mapfiles/kml/paddle/grn-blank_maps.png) visited location
+- ![Red pin](http://maps.google.com/mapfiles/kml/paddle/red-blank_maps.png) planned location
+
 ## Itinerary
 
 Booked?             | Departure date | Leg                                                                                                                                          | Price                  | Distance (km) | Total Distance (km) | 
