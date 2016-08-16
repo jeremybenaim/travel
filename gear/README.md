@@ -54,7 +54,7 @@
 - [x] laptop + cables
 - [x] universal adapter
 - [x] iphone + cables (make sure it is not simlocked)
-- [x] a solar external battery (probably BS but who knows…)
+- [x] a solar external battery
 - [x] a gorilla pod (to take scenic selfies that doesnt look like selfies)
 - [x] white wires (iphone earphones)
 - [x] Kindle + cables
