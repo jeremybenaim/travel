@@ -19,10 +19,10 @@ Booked?             | Departure date | Leg                                      
  :white_check_mark: | 2 Sep - 6 Sep  | :hotel: Stay in Moscow ([Apple Hostel](http://www.hostelworld.com/hosteldetails.php/Apple-Hostel-Moscow/Moscow/86488))                                                                                       |  ≈55.40€ (4,000 руб)   | -             | 2,877               |
  :white_check_mark: | 6 - 11 Sep     | Moscow :train: Ulaanbaatar (Transmongolian)                                                                                                                                                                  |  ≈350€ (£300)          | 6,304         | 9,181               |
  :white_check_mark: | 11 - 18 Sep    | :hotel: Stay in Ulaanbaatar ([Golden Gobi](http://www.hostelworld.com/hosteldetails.php/Golden-Gobi/Ulaanbaatar/14709))                                                                                      |  ≈50.17€ ($56)         | -             | 9,181               |
- :white_check_mark: | 18 - 19 Sep    | Ulaanbaatar :train: Ulanqab (Transmongolian to Beijing but stopping just before)                                                                                                                             |  ≈225€ (£191)          | 1,550         | 10,731              |
- nope               | 19 Sep         | Ulanqab (Jining South Station) :train: Datong ([book here](http://english.ctrip.com/trains/List/Index?DepartureStation=%E9%9B%86%E5%AE%81%E5%8D%97&ArrivalStation=%E5%A4%A7%E5%90%8C&DepartDate=09-19-2016)) | ¯\\_(ツ)_/¯            | -             | -                   |
- nope               | 19 - 20 Sep    | :hotel: Stay in Datong ([Datong Bravo Hostel](http://www.hostelworld.com/hosteldetails.php/Datong-Bravo-Hostel/Datong/269358))                                                                               | ¯\\_(ツ)_/¯            | -             | -                   |
- nope               | 20 Sep         | Datong :train: Beijing ([book here](http://english.ctrip.com/trains/List/Index?DepartureCity=Datong&ArrivalCity=Beijing&DepartDate=09-20-2016))                                                              | ¯\\_(ツ)_/¯            | -             | -                   |
+ :white_check_mark: | 18 - 19 Sep    | Ulaanbaatar :train: Ulanqab (Transmongolian to Beijing but stopping just before)                                                                                                                             |  ≈225€ (£191)          | 1,052         | 10,233              |
+ nope               | 19 Sep         | Ulanqab (Jining South Station) :train: Datong ([book here](http://english.ctrip.com/trains/List/Index?DepartureStation=%E9%9B%86%E5%AE%81%E5%8D%97&ArrivalStation=%E5%A4%A7%E5%90%8C&DepartDate=09-19-2016)) | ¯\\_(ツ)_/¯            | 127           | 10,360              |
+ nope               | 19 - 20 Sep    | :hotel: Stay in Datong ([Datong Bravo Hostel](http://www.hostelworld.com/hosteldetails.php/Datong-Bravo-Hostel/Datong/269358))                                                                               | ¯\\_(ツ)_/¯            | -             | 10,360              |
+ nope               | 20 Sep         | Datong :train: Beijing ([book here](http://english.ctrip.com/trains/List/Index?DepartureCity=Datong&ArrivalCity=Beijing&DepartDate=09-20-2016))                                                              | ¯\\_(ツ)_/¯            | 358           | 10,718              |
  nope               | until 7 Oct    | China                                                                                                                                                                                                        | ¯\\_(ツ)_/¯            | -             | -                   |
  nope               | ~8 Oct         | China > Korea                                                                                                                                                                                                | ¯\\_(ツ)_/¯            | -             | -                   |
  nope               | ~13 Oct        | Korea > [Japan](https://www.youtube.com/watch?v=GKrqDzljhc0)                                                                                                                                                 | ¯\\_(ツ)_/¯            | -             | -                   |
@@ -32,10 +32,11 @@ Then… ¯\\_(ツ)_/¯
 
 ### Currencies (as of July 11th)
 - 1 Euro (EUR)
-- ≈ 70.80 Russian Rubles (RUB)
-- ≈ 2230.58 Mongolian Tugrik (MNT)
-- ≈ 7.38 Chinese Yuan (CNY)
-- ≈ 112.38 Japanese Yen (JPY)
+- ≈ 73.15 Russian Rubles (RUB)
+- ≈ 2534.38 Mongolian Tugrik (MNT)
+- ≈ 7.53 Chinese Yuan (CNY)
+- ≈ 113.33 Japanese Yen (JPY)
+- ≈ 35.77 New Taiwan Dollar (TWD)
 
 ### Resources
 
