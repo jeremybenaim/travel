@@ -30,7 +30,7 @@ Booked?             | Departure date | Leg                                      
   
 Then… ¯\\_(ツ)_/¯
 
-### Currencies (as of July 11th)
+### Currencies (as of August 26th)
 - 1 Euro (EUR)
 - ≈ 73.15 Russian Rubles (RUB)
 - ≈ 2534.38 Mongolian Tugrik (MNT)
