@@ -58,3 +58,4 @@ Then… ¯\\_(ツ)_/¯
 #### :paperclip: Links:
 - https://en.wikivoyage.org/wiki/Trans-Siberian_Railway (all https://wikivoyage.org/ actually)
 - http://www.seat61.com/Map-southeast-asia-train-routes.htm (all http://www.seat61.com/ actually)
+- :cn: https://www.travelchinaguide.com
