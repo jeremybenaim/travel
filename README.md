@@ -36,13 +36,12 @@ Booked?             | Departure date | Leg                                      
 
 Then… ¯\\_(ツ)_/¯
 
-### Currencies (as of August 26th)
+### Currencies (as of September 24th)
 - 1 Euro (EUR)
-- ≈ 73.15 Russian Rubles (RUB)
-- ≈ 2534.38 Mongolian Tugrik (MNT)
-- ≈ 7.53 Chinese Yuan (CNY)
-- ≈ 113.33 Japanese Yen (JPY)
-- ≈ 35.77 New Taiwan Dollar (TWD)
+- ≈ 71.93 Russian Rubles (RUB)
+- ≈ 2523.71 Mongolian Tugrik (MNT)
+- ≈ 7.49 Chinese Yuan (CNY)
+- ≈ 113.42 Japanese Yen (JPY)
 
 ### Resources
 
