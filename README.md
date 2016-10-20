@@ -89,6 +89,9 @@ Then… ¯\\_(ツ)_/¯
 - :cn: http://english.ctrip.com/
 - :jp: https://www.japan-rail-pass.fr/ and http://www.japanrailpass.net/fr/index.html
 
+#### :bus: Buses:
+- :cn: http://www.chinabusguide.com/
+
 #### :paperclip: Links:
 - https://en.wikivoyage.org/wiki/Trans-Siberian_Railway (all https://wikivoyage.org/ actually)
 - http://www.seat61.com/Map-southeast-asia-train-routes.htm (all http://www.seat61.com/ actually)
