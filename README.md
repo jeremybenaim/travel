@@ -63,8 +63,9 @@ Booked?                 | Departure date | Leg                                  
  :white_check_mark:     | 26 Oct         | Kunming :airplane: Hong Kong                                                                                                                                                                                 | ≈91.18€ (769.41 HKD)   | 1,162         | 18,253              |
  :white_check_mark:     | 26 - 29 Oct    | :hotel: Stay in Hong Kong ([Hop Inn](https://www.airbnb.com/rooms/8831405))                                                                                                                                  | 116€                   | -             | 18,253              |
  :white_check_mark:     | 29 Oct         | Hong Kong :airplane: Taipei                                                                                                                                                                                  | ≈181.41€ (197.10 USD)  | 807           | 19,060              |
- nope                   | ~5/6 Nov       | Taiwan :airplane: [Japan](https://www.youtube.com/watch?v=GKrqDzljhc0)                                                                                                                                       | ¯\\_(ツ)_/¯            | -             | -                   |
- nope                   | ~26 Nov        | Japan > South East Asia                                                                                                                                                                                      | ¯\\_(ツ)_/¯            | -             | -                   |
+ :white_check_mark:     | 29 Oct - 2 Nov | :hotel: Stay in Taipei ([Duck Stay](http://www.hostelworld.com/hosteldetails.php/Duck-Stay/Taipei/92591))                                                                                                    | ≈65.17€ (2250 TWD)     | -             | 19,060              |
+ :white_check_mark:     | 8 Nov          | Taiwan :airplane: Tokyo                                                                                                                                                                                      | ≈82.62€ (90.03 USD)    | 2,183         | 21,243              |
+ nope                   | ~26/27 Nov     | [Japan](https://www.youtube.com/watch?v=GKrqDzljhc0) > South East Asia (probably Bangkok first)                                                                                                              | ¯\\_(ツ)_/¯            | -             | -                   |
 
 Then… ¯\\_(ツ)_/¯
 
@@ -74,7 +75,7 @@ Then… ¯\\_(ツ)_/¯
 - ≈ 2532.92 Mongolian Tugrik (MNT)
 - ≈ 7.36 Chinese Yuan (CNY)
 - ≈ 8.43 Hong Kong Dollar (HKD)
-- ≈ 34.52 New Taiwan Dollar (NTD)
+- ≈ 34.52 New Taiwan Dollar (TWD)
 - ≈ 112.94 Japanese Yen (JPY)
 
 ### Resources
