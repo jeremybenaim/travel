@@ -90,6 +90,7 @@ Then… ¯\\_(ツ)_/¯
 
 #### :airplane: Flights:
 - [Skyscanner](http://skyscanner.com)
+- [Google Flights](https://flights.google.com)
 
 #### :hotel: Hostels:
 - [Hostelworld](http://www.hostelworld.com)
