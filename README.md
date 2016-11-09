@@ -73,7 +73,7 @@ Booked?                 | Departure date | Leg                                  
  :white_check_mark:     | 8 Nov          | Taipei :airplane: Tokyo                                                                                                                                                                                      | ≈82.62€ (90.03 USD)    | 2,183         | 21,880              |
  :white_check_mark:     | 8 Nov - 14 Nov | :hotel: Stay in Tokyo ([Chiyoda Inn Guest House](https://www.agoda.com/chiyoda-inn-guest-house/hotel/tokyo-jp.html))                                                                                         | 101€                   | -             | 21,880              |
  nope                   | 14 - ~28 Nov   | :bullettrain_side: [Japan](https://www.youtube.com/watch?v=GKrqDzljhc0)                                                                                                                                      | ¯\\_(ツ)_/¯            | -             | -                   |
- nope                   | ~28 Nov        | Tokyo :airplane: Bangkok                                                                                                                                                                                     | ¯\\_(ツ)_/¯            | -             | -                   |
+ :white_check_mark:     | 28 Nov         | Tokyo :airplane: Bangkok                                                                                                                                                                                     | 128.08€                | 4,650         | -                   |
 
 Then… ¯\\_(ツ)_/¯
 
