@@ -72,8 +72,11 @@ Booked?                 | Departure date | Leg                                  
  :white_check_mark:     | 6 Nov - 8 Nov  | :hotel: Stay in Taipei ([Kali Inn](https://www.agoda.com/kali-inn/hotel/taipei-tw.html))                                                                                                                     | 24€                    | -             | 19,697              |
  :white_check_mark:     | 8 Nov          | Taipei :airplane: Tokyo                                                                                                                                                                                      | ≈82.62€ (90.03 USD)    | 2,183         | 21,880              |
  :white_check_mark:     | 8 Nov - 14 Nov | :hotel: Stay in Tokyo ([Chiyoda Inn Guest House](https://www.agoda.com/chiyoda-inn-guest-house/hotel/tokyo-jp.html))                                                                                         | 101€                   | -             | 21,880              |
+ nope                   | 14/15 Nov      | Tokyo :bullettrain_side: Osaka                                                                                                                                                                               | Free (JR Pass*)        | 515           | 22,395              |
  nope                   | 14 - ~28 Nov   | :bullettrain_side: [Japan](https://www.youtube.com/watch?v=GKrqDzljhc0)                                                                                                                                      | ¯\\_(ツ)_/¯            | -             | -                   |
  :white_check_mark:     | 28 Nov         | Tokyo :airplane: Bangkok                                                                                                                                                                                     | 128.08€                | 4,650         | -                   |
+
+*JR Pass: 500-530€ (depending on where you grab them and the exchange rate, etc)
 
 Then… ¯\\_(ツ)_/¯
 
