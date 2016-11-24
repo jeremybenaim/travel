@@ -11,15 +11,16 @@
 
 Booked?                 | Departure date | Leg                                                                                                                                                                                                          | Price                  | Distance (km) | Total Distance (km) |
 ------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|---------------|---------------------|
+ :white_check_mark:     | 28 - 29 Nov    | :hotel: Stay in Bangkok ([Suk11 Hostel](http://www.suk11.com/suk11hostel/))                                                                                                                                  | ≈18.50€ (695.50 THB)   | -             | 28,535              |
  :white_check_mark:     | 28 Nov         | Tokyo :airplane: Bangkok                                                                                                                                                                                     | 128.08€                | 4,650         | 28,535              |
- :white_check_mark:     | 26 - 28 Nov    | :hotel: Stay in Tokyo ([Hikari House Tokyo ](https://www.agoda.com/hikari-house-tokyo/hotel/tokyo-jp.html))                                                                                                  | 55€                    | -             | 23,885              |
+ :white_check_mark:     | 26 - 28 Nov    | :hotel: Stay in Tokyo ([Hikari House Tokyo](https://www.agoda.com/hikari-house-tokyo/hotel/tokyo-jp.html))                                                                                                   | 55€                    | -             | 23,885              |
  nope                   | 26 Nov         | Kawaguchi :bullettrain_side: Tokyo                                                                                                                                                                           | Free (JR Pass*)        | 16            | 23,885              |
  :white_check_mark:     | 25 - 26 Nov    | :hotel: Stay in Kawaguchi ([K's House Mt.Fuji - Backpackers Hostel](https://www.agoda.com/k-s-house-mt-fuji-backpackers-hostel/hotel/mount-fuji-jp.html))                                                    | 23€                    | -             | 23,869              |
  nope                   | 25 Nov         | Nagano :bullettrain_side: Kawaguchi                                                                                                                                                                          | Free (JR Pass*)        | 206           | 23,869              |
- nope                   | 25 Nov         | Yamanouchi :train: Nagano                                                                                                                                                                                    | ¯\\_(ツ)_/¯            | 26            | 23,663              |
+ nope                   | 25 Nov         | Yamanouchi :train: Nagano                                                                                                                                                                                    | ≈10.57€ (1260 JPY)     | 26            | 23,663              |
  :white_check_mark:     | 24 - 25 Nov    | :hotel: Stay in Yamanouchi ([Hotel Yudanaka](https://www.agoda.com/hotel-yudanaka/hotel/nagano-jp.html))                                                                                                     | ≈28.80€ (30.58 USD)    | -             | 23,637              |
- nope                   | 24 Nov         | Nagano :train: Yamanouchi                                                                                                                                                                                    | ¯\\_(ツ)_/¯            | 26            | 23,637              |
- nope                   | 24 Nov         | Kyoto :bullettrain_side: Nagano                                                                                                                                                                              | Free (JR Pass*)        | 398           | 23,611              |
+ :white_check_mark:     | 24 Nov         | Nagano :train: Yamanouchi                                                                                                                                                                                    | ≈10.57€ (1260 JPY)     | 26            | 23,637              |
+ :white_check_mark:     | 24 Nov         | Kyoto :bullettrain_side: Nagano                                                                                                                                                                              | Free (JR Pass*)        | 398           | 23,611              |
  :white_check_mark:     | 23 - 24 Nov    | :hotel: Stay in Kyoto ([Khaosan Kyoto Guesthouse](https://www.agoda.com/khaosan-kyoto-guesthouse/hotel/kyoto-jp.html))                                                                                       | 23.91€                 | -             | 23,213              |
  :white_check_mark:     | 21 - 23 Nov    | :hotel: Stay in Kyoto ([Hostel Kyotokko](https://www.agoda.com/hostel-kyotokko/hotel/kyoto-jp.html))                                                                                                         | ≈50.98€ (6000 JPY)     | -             | 23,213              |
  :white_check_mark:     | 21 Nov         | Hiroshima :bullettrain_side: Kyoto                                                                                                                                                                           | Free (JR Pass*)        | 380           | 23,213              |
@@ -95,14 +96,15 @@ Booked?                 | Departure date | Leg                                  
 *JR Pass: 500-530€ (depending on where you grab them and the exchange rate, etc)
 
 
-### Currencies (as of October 24th)
+### Currencies (as of November 24th)
 - 1 Euro (EUR)
-- ≈ 67.91 Russian Rubles (RUB)
-- ≈ 2532.92 Mongolian Tugrik (MNT)
-- ≈ 7.36 Chinese Yuan (CNY)
-- ≈ 8.43 Hong Kong Dollar (HKD)
-- ≈ 34.52 New Taiwan Dollar (TWD)
-- ≈ 112.94 Japanese Yen (JPY)
+- ≈ 68.05 Russian Rubles (RUB)
+- ≈ 2585.48 Mongolian Tugrik (MNT)
+- ≈ 7.28 Chinese Yuan (CNY)
+- ≈ 8.17 Hong Kong Dollar (HKD)
+- ≈ 33.65 New Taiwan Dollar (TWD)
+- ≈ 119.33 Japanese Yen (JPY)
+- ≈ 37.61 Thai Baht (THB)
 
 ### Resources
 
