@@ -124,9 +124,9 @@ Booked?                 | Departure date | Leg                                  
 - [Action Visas](http://action-visas.com)
 
 #### :train: Trains:
-- http://www.virail.com/
+- [viRail](http://www.virail.com/)
 - :ru: http://pass.rzd.ru/main-pass/public/en
-- :cn: http://english.ctrip.com/
+- :cn: [Ctrip](http://english.ctrip.com/)
 - :jp: http://www.japanrailpass.net/
 
 #### :bus: Buses:
