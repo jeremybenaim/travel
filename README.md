@@ -11,7 +11,7 @@
 
 Booked?                 | Departure date | Leg                                                                                                                                                                                                          | Price                  | Distance (km) | Total Distance (km) |
 ------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|---------------|---------------------|
- :white_check_mark:     | 12 - 14 Dec    | :hotel: Stay in Chiang Rai ([Baan Bua Guest House](https://www.agoda.com/baan-bua-guest-house/hotel/chiang-rai-th.html))                                                                                     | 16€                    | -             | 29,732              |
+ :white_check_mark:     | 12 - 15 Dec    | :hotel: Stay in Chiang Rai ([Baan Bua Guest House](https://www.agoda.com/baan-bua-guest-house/hotel/chiang-rai-th.html))                                                                                     | 24€                    | -             | 29,732              |
  :white_check_mark:     | 12 Dec         | Chiang Mai :bus: Chiang Rai                                                                                                                                                                                  | ≈4.39€ (166 THB)       | 186           | 29,732              |
  :white_check_mark:     | 12 Dec         | Pai :bus: Chiang Mai                                                                                                                                                                                         | ≈3.97€ (150 THB)       | 130           | 29,546              |
  ~~:white_check_mark:~~ | ~~12 Dec~~     | ~~Pai :bus: Chiang Rai~~                                                                                                                                                                                     | ~~≈13.27€ (500 THB)~~  | ~~308~~       | ~~29,724~~          |
@@ -108,15 +108,16 @@ Booked?                 | Departure date | Leg                                  
 *JR Pass: 500-530€ (depending on where you grab them and the exchange rate, etc)
 
 
-### Currencies (as of November 24th)
+### Currencies (as of December 13th)
 - 1 Euro (EUR)
-- ≈ 68.05 Russian Rubles (RUB)
-- ≈ 2585.48 Mongolian Tugrik (MNT)
-- ≈ 7.28 Chinese Yuan (CNY)
-- ≈ 8.17 Hong Kong Dollar (HKD)
-- ≈ 33.65 New Taiwan Dollar (TWD)
-- ≈ 119.33 Japanese Yen (JPY)
-- ≈ 37.61 Thai Baht (THB)
+- ≈ 8,647.70 Laotian Kip (LAK)
+- ≈ 37.78 Thai Baht (THB)
+- ≈ 122.54 Japanese Yen (JPY)
+- ≈ 33.75 New Taiwan Dollar (TWD)
+- ≈ 8.23 Hong Kong Dollar (HKD)
+- ≈ 7.32 Chinese Yuan (CNY)
+- ≈ 2,634.35 Mongolian Tugrik (MNT)
+- ≈ 64.78 Russian Rubles (RUB)
 
 ### Resources
 
@@ -145,3 +146,6 @@ Booked?                 | Departure date | Leg                                  
 - https://en.wikivoyage.org/wiki/Trans-Siberian_Railway (all https://wikivoyage.org/ actually)
 - http://www.seat61.com/Map-southeast-asia-train-routes.htm (all http://www.seat61.com/ actually)
 - :cn: https://www.travelchinaguide.com
+
+#### :iphone: Apps
+- coming soon
