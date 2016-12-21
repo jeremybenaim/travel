@@ -2,6 +2,8 @@
 
 [Click here to open the map :earth_asia:](https://www.google.com/maps/d/u/1/edit?mid=1bnooPmMNt33NSRK2YAVpEtV_uGA)
 
+Currently in: Vientiane, Laos :laos: 
+
 ##### Map legend:
 - ![Blue pin](http://maps.google.com/mapfiles/kml/paddle/blu-blank_maps.png) current location
 - ![Green pin](http://maps.google.com/mapfiles/kml/paddle/grn-blank_maps.png) visited location
@@ -119,15 +121,15 @@ Booked?                 | Departure date | Leg                                  
 
 
 ### Currencies (as of December 13th)
-- 1 Euro (EUR)
-- ≈ 8,647.70 Laotian Kip (LAK)
-- ≈ 37.78 Thai Baht (THB)
-- ≈ 122.54 Japanese Yen (JPY)
-- ≈ 33.75 New Taiwan Dollar (TWD)
-- ≈ 8.23 Hong Kong Dollar (HKD)
-- ≈ 7.32 Chinese Yuan (CNY)
-- ≈ 2,634.35 Mongolian Tugrik (MNT)
-- ≈ 64.78 Russian Rubles (RUB)
+- 1 Euro (EUR) :euro: 
+- ≈ 8,647.70 Laotian Kip (LAK) :laos: 
+- ≈ 37.78 Thai Baht (THB) :thailand: 
+- ≈ 122.54 Japanese Yen (JPY) :jp: 
+- ≈ 33.75 New Taiwan Dollar (TWD) :taiwan: 
+- ≈ 8.23 Hong Kong Dollar (HKD) :hong_kong: 
+- ≈ 7.32 Chinese Yuan (CNY) :cn: 
+- ≈ 2,634.35 Mongolian Tugrik (MNT) :mongolia:
+- ≈ 64.78 Russian Rubles (RUB) :ru: 
 
 ### Resources
 
