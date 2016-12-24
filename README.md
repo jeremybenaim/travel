@@ -2,7 +2,7 @@
 
 [Click here to open the map :earth_asia:](https://www.google.com/maps/d/u/1/edit?mid=1bnooPmMNt33NSRK2YAVpEtV_uGA)
 
-Currently in: Vientiane, Laos :laos: 
+Currently in: Don Khon, Laos :laos:
 
 ##### Map legend:
 - ![Blue pin](http://maps.google.com/mapfiles/kml/paddle/blu-blank_maps.png) current location
@@ -13,6 +13,10 @@ Currently in: Vientiane, Laos :laos:
 
 Booked?                 | Departure date | Leg                                                                                                                                                                                                          | Price                  | Distance (km) | Total Distance (km) |
 ------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|---------------|---------------------|
+ :white_check_mark:     | 23 - 25 Dec    | :hotel: Stay in Don Khon ([Pa Kha Guesthouse](https://www.agoda.com/pa-kha-guesthouse/hotel/muang-khong-la.html))                                                                                            | 27€                    | -             | 31,298              |
+ :white_check_mark:     | 23 Dec         | Pakse :rowboat: Don Khon                                                                                                                                                                                     | ≈2.33€ (20,000 LAK)    | 4             | 31,298              |
+ :white_check_mark:     | 23 Dec         | Pakse :bus: Ban Nakasang                                                                                                                                                                                     | ≈8.16€ (70,000 LAK)    | 145           | 31,294              |
+ :white_check_mark:     | 22 - 23 Dec    | Vientiane :bus: Pakse                                                                                                                                                                                        | ≈17.49€ (150,000 LAK)  | 670           | 31,149              |
  :white_check_mark:     | 20 - 22 Dec    | :hotel: Stay in Vientiane ([Lucky Backpackers Hostel](https://www.agoda.com/lucky-backpackers-hostel/hotel/vientiane-la.html))                                                                               | ≈30.56€ (260,000 LAK)  | -             | 30,479              |
  :white_check_mark:     | 19 - 20 Dec    | Luang Prabang :bus: Vientiane                                                                                                                                                                                | ≈20.99€ (180,000 LAK)  | 340           | 30,479              |
  :white_check_mark:     | 16 - 19 Dec    | :hotel: Stay in Luang Prabang ([Vongprachan Backpackers Hostel](https://www.agoda.com/vongprachan-backpackers-hostel/hotel/luang-prabang-la.html))                                                           | ~17.49€ (150,000 LAK)  | -             | 30,139              |
@@ -26,7 +30,7 @@ Booked?                 | Departure date | Leg                                  
  :white_check_mark:     | 12 - 15 Dec    | :hotel: Stay in Chiang Rai ([Baan Bua Guest House](https://www.agoda.com/baan-bua-guest-house/hotel/chiang-rai-th.html))                                                                                     | 24€                    | -             | 29,732              |
  :white_check_mark:     | 12 Dec         | Chiang Mai :minibus: Chiang Rai                                                                                                                                                                              | ≈4.39€ (166 THB)       | 186           | 29,732              |
  :white_check_mark:     | 12 Dec         | Pai :minibus: Chiang Mai                                                                                                                                                                                     | ≈3.97€ (150 THB)       | 130           | 29,546              |
- ~~:white_check_mark:~~ | ~~12 Dec~~     | ~~Pai :minibus: Chiang Rai~~                                                                                                                                                                                 | ~~≈13.27€ (500 THB)~~  | ~~308~~       | ~~29,724~~          |
+ ~~:white_check_mark:~~ | ~~12 Dec~~     | ~~Pai :minibus: Chiang Rai~~                                                                                                                                                                                 | ≈13.27€ (500 THB)      | ~~308~~       | ~~29,724~~          |
  :white_check_mark:     | 9 - 12 Dec     | :hotel: Stay in Pai ([KK Hut Guest House](https://www.agoda.com/kk-hut-guest-house/hotel/pai-th.html))                                                                                                       | 36€                    | -             | 29,416              |
  :white_check_mark:     | 9 Dec          | Chiang Mai :minibus: Pai                                                                                                                                                                                     | ≈4.51€ (170 THB)       | 130           | 29,416              |
  :white_check_mark:     | 7 - 9 Dec      | :hotel: Stay in Chiang Mai ([Nature's Way House](https://www.agoda.com/nature-s-way-house/hotel/chiang-mai-th.html))                                                                                         | ≈8.37€ (320 THB)       | -             | 29,286              |
@@ -121,15 +125,15 @@ Booked?                 | Departure date | Leg                                  
 
 
 ### Currencies (as of December 13th)
-- 1 Euro (EUR) :euro: 
-- ≈ 8,647.70 Laotian Kip (LAK) :laos: 
-- ≈ 37.78 Thai Baht (THB) :thailand: 
-- ≈ 122.54 Japanese Yen (JPY) :jp: 
-- ≈ 33.75 New Taiwan Dollar (TWD) :taiwan: 
-- ≈ 8.23 Hong Kong Dollar (HKD) :hong_kong: 
-- ≈ 7.32 Chinese Yuan (CNY) :cn: 
+- 1 Euro (EUR) :euro:
+- ≈ 8,647.70 Laotian Kip (LAK) :laos:
+- ≈ 37.78 Thai Baht (THB) :thailand:
+- ≈ 122.54 Japanese Yen (JPY) :jp:
+- ≈ 33.75 New Taiwan Dollar (TWD) :taiwan:
+- ≈ 8.23 Hong Kong Dollar (HKD) :hong_kong:
+- ≈ 7.32 Chinese Yuan (CNY) :cn:
 - ≈ 2,634.35 Mongolian Tugrik (MNT) :mongolia:
-- ≈ 64.78 Russian Rubles (RUB) :ru: 
+- ≈ 64.78 Russian Rubles (RUB) :ru:
 
 ### Resources
 
