@@ -2,7 +2,7 @@
 
 [Click here to open the map :earth_asia:](https://www.google.com/maps/d/u/1/edit?mid=1bnooPmMNt33NSRK2YAVpEtV_uGA)
 
-Currently in: Siem Reap, Cambodia :cambodia:
+Currently in: Cat Ba, Vietnam :vietnam:
 
 ##### Map legend:
 - ![Blue pin](http://maps.google.com/mapfiles/kml/paddle/blu-blank_maps.png) current location
@@ -13,6 +13,14 @@ Currently in: Siem Reap, Cambodia :cambodia:
 
 Date            | Leg                                                                                                                                                                                                          | Price                  | Distance (km) | Total Distance (km) |
 ----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|---------------|---------------------|
+ 13 - 17 Jan    | Stay in Cat Ba ([Woodstock Beach Camp](https://www.agoda.com/woodstock-beach-camp/hotel/cat-ba-island-vn.html))                                                                                              | ≈80€                   | 27            | 34,597              |
+ 13 Jan         | Haiphong :speedboat: Cat Ba                                                                                                                                                                                  | ≈5.42€ (130,000 VND)   | -             | 34,597              |
+ 13 Jan         | Hanoi :train: Haiphong                                                                                                                                                                                       | ≈2.92€ (70,000 VND)    | 102           | 34,597              |
+ 12 - 13 Jan    | Hue :bus: Hanoi                                                                                                                                                                                              | ≈10.42€ (250,000 VND)  | 669           | 34,495              |
+ 10 - 12 Jan    | :hotel: Hue ([Bien Khoi Hostel](https://www.agoda.com/bien-khoi-hostel/hotel/hue-vn.html))                                                                                                                   | 13€                    | -             | 33,826              |
+ 10 Jan         | Hoi An :bus: Hue                                                                                                                                                                                             | ≈4.71€ (5 USD)         | 130           | 33,826              |
+ 8 - 10 Jan     | :hotel: Hoi An ([Dai Long Hotel](https://www.agoda.com/dai-long-hotel/hotel/hoi-an-vn.html))                                                                                                                 | 21€                    | -             | 33,696              |
+ 8 Jan          | Da Nang :car: Hoi An                                                                                                                                                                                         | ≈13.34€ (320,000 VND)  | 29            | 33,696              |
  8 Jan          | Ho Chi Minh City :airplane: Da Nang                                                                                                                                                                          | ≈33.04€ (35 USD)       | 606           | 33,667              |
  7 - 8 Jan      | :hotel: Stay in Ho Chi Minh City ([Nguyen Khang Hotel](https://www.agoda.com/nguyen-khang-hotel/hotel/ho-chi-minh-city-vn.html))                                                                             | 20€                    | -             | 33,061              |
  6 - 7 Jan      | Siem Reap :bus: Ho Chi Minh City                                                                                                                                                                             | ≈15.23€ (16 USD)       | 463           | 33,061              |
@@ -165,9 +173,10 @@ Date            | Leg                                                           
 
 #### :train: Trains:
 - [viRail](http://www.virail.com/)
-- :ru: http://pass.rzd.ru/main-pass/public/en
-- :cn: [Ctrip](http://english.ctrip.com/)
+- :vietnam: https://www.baolau.vn/
 - :jp: http://www.japanrailpass.net/
+- :cn: [Ctrip](http://english.ctrip.com/)
+- :ru: http://pass.rzd.ru/main-pass/public/en
 
 #### :bus: Buses:
 - :cn: http://www.chinabusguide.com/
