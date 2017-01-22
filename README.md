@@ -13,13 +13,18 @@ Currently in: Hanoi, Vietnam :vietnam:
 
 Date            | Leg                                                                                                                                                                                                          | Price                  | Distance (km) | Total Distance (km) |
 ----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|---------------|---------------------|
- 13 - 17 Jan    | Stay in Cat Ba ([Woodstock Beach Camp](https://www.agoda.com/woodstock-beach-camp/hotel/cat-ba-island-vn.html))                                                                                              | 80€                    | -             | 34,624              |
+ 23 Jan         | Ho Chi Minh City :airplane: Yangon                                                                                                                                                                           | 56€                    | 1,322         | 37,244              |
+ 23 Jan         | Hanoi :airplane: Ho Chi Minh City                                                                                                                                                                            | ≈19.13€ (463,900 VND)  | 1,161         | 35,922              |
+ 18 - 23 Jan    | :hotel: Stay in Hanoi ([Hanoi Hibiscus Hotel](https://www.agoda.com/hanoi-hibiscus-hotel/hotel/hanoi-vn.html))                                                                                               | ≈81.29€ (87 USD)       | -             | 34,761              |
+ 17 - 18 Jan    | :hotel: Stay in Hanoi ([Bluebell Hotel](https://www.agoda.com/bluebell-hotel/hotel/hanoi-vn.html))                                                                                                           | 13€                    | -             | 34,761              |
+ 17 Jan         | Cat Ba :speedboat: + :bus: Hanoi                                                                                                                                                                             | ≈13.20€ (320,000 VND)  | 137           | 34,761              |
+ 13 - 17 Jan    | :hotel: Stay in Cat Ba ([Woodstock Beach Camp](https://www.agoda.com/woodstock-beach-camp/hotel/cat-ba-island-vn.html))                                                                                      | 80€                    | -             | 34,624              |
  13 Jan         | Haiphong :speedboat: Cat Ba                                                                                                                                                                                  | ≈5.42€ (130,000 VND)   | 27            | 34,624              |
  13 Jan         | Hanoi :train: Haiphong                                                                                                                                                                                       | ≈2.92€ (70,000 VND)    | 102           | 34,597              |
  12 - 13 Jan    | Hue :bus: Hanoi                                                                                                                                                                                              | ≈10.42€ (250,000 VND)  | 669           | 34,495              |
- 10 - 12 Jan    | :hotel: Hue ([Bien Khoi Hostel](https://www.agoda.com/bien-khoi-hostel/hotel/hue-vn.html))                                                                                                                   | 13€                    | -             | 33,826              |
+ 10 - 12 Jan    | :hotel: Stay in Hue ([Bien Khoi Hostel](https://www.agoda.com/bien-khoi-hostel/hotel/hue-vn.html))                                                                                                           | 13€                    | -             | 33,826              |
  10 Jan         | Hoi An :bus: Hue                                                                                                                                                                                             | ≈4.71€ (5 USD)         | 130           | 33,826              |
- 8 - 10 Jan     | :hotel: Hoi An ([Dai Long Hotel](https://www.agoda.com/dai-long-hotel/hotel/hoi-an-vn.html))                                                                                                                 | 21€                    | -             | 33,696              |
+ 8 - 10 Jan     | :hotel: Stay in Hoi An ([Dai Long Hotel](https://www.agoda.com/dai-long-hotel/hotel/hoi-an-vn.html))                                                                                                         | 21€                    | -             | 33,696              |
  8 Jan          | Da Nang :car: Hoi An                                                                                                                                                                                         | ≈13.34€ (320,000 VND)  | 29            | 33,696              |
  8 Jan          | Ho Chi Minh City :airplane: Da Nang                                                                                                                                                                          | ≈33.04€ (35 USD)       | 606           | 33,667              |
  7 - 8 Jan      | :hotel: Stay in Ho Chi Minh City ([Nguyen Khang Hotel](https://www.agoda.com/nguyen-khang-hotel/hotel/ho-chi-minh-city-vn.html))                                                                             | 20€                    | -             | 33,061              |
@@ -146,16 +151,21 @@ Date            | Leg                                                           
 *JR Pass: 500-530€ (depending on where you grab them and the exchange rate, etc)
 
 
-### Currencies (as of December 13th)
+### Currencies (as of January 22nd)
+
 - 1 Euro (EUR) :euro:
-- ≈ 8,647.70 Laotian Kip (LAK) :laos:
-- ≈ 37.78 Thai Baht (THB) :thailand:
-- ≈ 122.54 Japanese Yen (JPY) :jp:
-- ≈ 33.75 New Taiwan Dollar (TWD) :taiwan:
-- ≈ 8.23 Hong Kong Dollar (HKD) :hong_kong:
-- ≈ 7.32 Chinese Yuan (CNY) :cn:
-- ≈ 2,634.35 Mongolian Tugrik (MNT) :mongolia:
-- ≈ 64.78 Russian Rubles (RUB) :ru:
+- ≈ 1.06998 US Dollar (USD) :us:
+- ≈ 1,458.74 Myanmar Kyat (MMK) :myanmar:
+- ≈ 24,240.07 Vietnamese Dong (VND) :vietnam:
+- ≈ 4,329.65 Cambodian Riel (KHR) :cambodia:
+- ≈ 8,769.33 Laotian Kip (LAK) :laos:
+- ≈ 37.89 Thai Baht (THB) :thailand:
+- ≈ 122.67 Japanese Yen (JPY) :jp:
+- ≈ 33.74 New Taiwan Dollar (TWD) :taiwan:
+- ≈ 8.30 Hong Kong Dollar (HKD) :hong_kong:
+- ≈ 7.36 Chinese Yuan (CNY) :cn:
+- ≈ 2,663.73 Mongolian Tugrik (MNT) :mongolia:
+- ≈ 63.81 Russian Rubles (RUB) :ru:
 
 ### Resources
 
@@ -173,6 +183,7 @@ Date            | Leg                                                           
 
 #### :train: Trains:
 - [viRail](http://www.virail.com/)
+- :myanmar: http://myanmarbusticket.com/
 - :vietnam: https://www.baolau.vn/
 - :jp: http://www.japanrailpass.net/
 - :cn: [Ctrip](http://english.ctrip.com/)
