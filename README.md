@@ -2,7 +2,7 @@
 
 [Click here to open the map :earth_asia:](https://www.google.com/maps/d/u/1/edit?mid=1bnooPmMNt33NSRK2YAVpEtV_uGA)
 
-Currently in: Yangon, Myanmar :myanmar:
+Currently in: New Bagan, Myanmar :myanmar:
 
 ##### Map legend:
 - ![Blue pin](http://maps.google.com/mapfiles/kml/paddle/blu-blank_maps.png) current location
@@ -46,7 +46,7 @@ Date            | Leg                                                           
  22 - 23 Dec    | Vientiane :bus: Pakse                                                                                                                                                                                        | ≈17.49€ (150,000 LAK)  | 670           | 31,149              |
  20 - 22 Dec    | :hotel: Stay in Vientiane ([Lucky Backpackers Hostel](https://www.agoda.com/lucky-backpackers-hostel/hotel/vientiane-la.html))                                                                               | ≈30.56€ (260,000 LAK)  | -             | 30,479              |
  19 - 20 Dec    | Luang Prabang :bus: Vientiane                                                                                                                                                                                | ≈20.99€ (180,000 LAK)  | 340           | 30,479              |
- 16 - 19 Dec    | :hotel: Stay in Luang Prabang ([Vongprachan Backpackers Hostel](https://www.agoda.com/vongprachan-backpackers-hostel/hotel/luang-prabang-la.html))                                                           | ~17.49€ (150,000 LAK)  | -             | 30,139              |
+ 16 - 19 Dec    | :hotel: Stay in Luang Prabang ([Vongprachan Backpackers Hostel](https://www.agoda.com/vongprachan-backpackers-hostel/hotel/luang-prabang-la.html))                                                           | ≈17.49€ (150,000 LAK)  | -             | 30,139              |
  16 Dec         | Pakbeng :ship: Luang Prabang                                                                                                                                                                                 | ≈12.24€ (105,000 LAK)  | 155           | 30,139              |
  15 - 16 Dec    | :hotel: Stay in Pakbeng ([Donevilasack Guest House](https://www.agoda.com/donevilasack-guest-house/hotel/all/pakbeng-la.html))                                                                               | ≈4.66€ (40,000 LAK)    | -             | 29,984              |
  15 Dec         | Huay Xai :ship: Pakbeng                                                                                                                                                                                      | ≈12.24€ (105,000 LAK)  | 135           | 29,984              |
