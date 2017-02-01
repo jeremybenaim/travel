@@ -2,7 +2,7 @@
 
 [Click here to open the map :earth_asia:](https://www.google.com/maps/d/u/1/edit?mid=1bnooPmMNt33NSRK2YAVpEtV_uGA)
 
-Currently in: New Bagan, Myanmar :myanmar:
+Currently in: Nyaung Shwe (Inle Lake), Myanmar :myanmar:
 
 ##### Map legend:
 - ![Blue pin](http://maps.google.com/mapfiles/kml/paddle/blu-blank_maps.png) current location
@@ -13,6 +13,13 @@ Currently in: New Bagan, Myanmar :myanmar:
 
 Date            | Leg                                                                                                                                                                                                          | Price                  | Distance (km) | Total Distance (km) |
 ----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|---------------|---------------------|
+ 31 Jan - 3 Feb | :hotel: Stay in Nyaung Shwe (Inle Lake) ([Ostello Bello Nyaung Shwe](https://www.agoda.com/ostello-bello-nyaung-shwe/hotel/inle-lake-mm.html))                                                               | 36.37€                 | -             | 38,440              |
+ 31 Jan         | Mandalay :minibus: Nyaung Shwe (Inle Lake)                                                                                                                                                                   | ≈8.59€ (12,500 MMK)    | 359           | 38,440              |
+ 28 - 31 Jan    | :hotel: Stay in Mandalay ([Ace Star BnB Backpacker Hostel](https://www.agoda.com/ace-star-bnb-backpacker-hostel/hotel/mandalay-mm.html))                                                                     | 33€                    | -             | 38,081              |
+ 28 Jan         | Bagan :bus: Mandalay                                                                                                                                                                                         | ≈6.18€ (9,000 MMK)     | 206           | 38,081              |
+ 25 - 28 Jan    | :hotel: Stay in Bagan ([Ostello Bello Bagan](https://www.agoda.com/ostello-bello-bagan-hostel/hotel/bagan-mm.html))                                                                                          | 92€                    | -             | 37,875              |
+ 24 - 25 Jan    | Yangon :train: Bagan                                                                                                                                                                                         | ≈11.34€ (16,500 MMK)   | 631           | 37,875              |
+ 23 - 24 Jan    | :hotel: Stay in Yangon ([21 HOSTEL](https://www.agoda.com/21-hostel/hotel/yangon-mm.html))                                                                                                                   | ≈9.61€ (14,000 MMK)    | -             | 37,244              |
  23 Jan         | Ho Chi Minh City :airplane: Yangon                                                                                                                                                                           | 56€                    | 1,322         | 37,244              |
  23 Jan         | Hanoi :airplane: Ho Chi Minh City                                                                                                                                                                            | ≈19.13€ (463,900 VND)  | 1,161         | 35,922              |
  18 - 23 Jan    | :hotel: Stay in Hanoi ([Hanoi Hibiscus Hotel](https://www.agoda.com/hanoi-hibiscus-hotel/hotel/hanoi-vn.html))                                                                                               | ≈81.29€ (87 USD)       | -             | 34,761              |
