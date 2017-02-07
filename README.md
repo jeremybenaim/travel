@@ -2,7 +2,7 @@
 
 [Click here to open the map :earth_asia:](https://www.google.com/maps/d/u/1/edit?mid=1bnooPmMNt33NSRK2YAVpEtV_uGA)
 
-Currently in: Nyaung Shwe (Inle Lake), Myanmar :myanmar:
+Currently in: Hpa-An, Myanmar :myanmar:
 
 ##### Map legend:
 - ![Blue pin](http://maps.google.com/mapfiles/kml/paddle/blu-blank_maps.png) current location
@@ -13,7 +13,12 @@ Currently in: Nyaung Shwe (Inle Lake), Myanmar :myanmar:
 
 Date            | Leg                                                                                                                                                                                                          | Price                  | Distance (km) | Total Distance (km) |
 ----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|---------------|---------------------|
- 31 Jan - 3 Feb | :hotel: Stay in Nyaung Shwe (Inle Lake) ([Ostello Bello Nyaung Shwe](https://www.agoda.com/ostello-bello-nyaung-shwe/hotel/inle-lake-mm.html))                                                               | 36.37€                 | -             | 38,440              |
+ 8 Feb          | Hpa-An :bus: Yangon                                                                                                                                                                                          | ≈3.43€ (5,000 MMK)     | 289           | 39,600              |
+ 7 - 8 Feb      | :hotel: Stay in Hpa-An ([Soe Brothers Guesthouse](https://www.agoda.com/soe-brothers-guesthouse/hotel/hpa-an-mm.html))                                                                                       | ≈6.56€ (7 USD)         | -             | 39,311              |
+ 5 - 7 Feb      | :hotel: Stay in Hpa-An ([Hotel Angels Land](https://www.agoda.com/hotel-angels-land/hotel/hpa-an-mm.html))                                                                                                   | 36.50€                 | -             | 39,311              |
+ 5 Feb          | Yangon :minibus: Hpa-An                                                                                                                                                                                      | ≈6.85€ (10,000 MMK)    | 289           | 39,311              |
+ 4 - 5 Feb      | Nyaung Shwe (Inle Lake) :bus: Yangon                                                                                                                                                                         | ≈17.82€ (26,000 MMK)   | 582           | 39,022              |
+ 31 Jan - 4 Feb | :hotel: Stay in Nyaung Shwe (Inle Lake) ([Ostello Bello Nyaung Shwe](https://www.agoda.com/ostello-bello-nyaung-shwe/hotel/inle-lake-mm.html))                                                               | ≈45.62€                | -             | 38,440              |
  31 Jan         | Mandalay :minibus: Nyaung Shwe (Inle Lake)                                                                                                                                                                   | ≈8.59€ (12,500 MMK)    | 359           | 38,440              |
  28 - 31 Jan    | :hotel: Stay in Mandalay ([Ace Star BnB Backpacker Hostel](https://www.agoda.com/ace-star-bnb-backpacker-hostel/hotel/mandalay-mm.html))                                                                     | 33€                    | -             | 38,081              |
  28 Jan         | Bagan :bus: Mandalay                                                                                                                                                                                         | ≈6.18€ (9,000 MMK)     | 206           | 38,081              |
@@ -190,13 +195,13 @@ Date            | Leg                                                           
 
 #### :train: Trains:
 - [viRail](http://www.virail.com/)
-- :myanmar: http://myanmarbusticket.com/
 - :vietnam: https://www.baolau.vn/
 - :jp: http://www.japanrailpass.net/
 - :cn: [Ctrip](http://english.ctrip.com/)
 - :ru: http://pass.rzd.ru/main-pass/public/en
 
 #### :bus: Buses:
+- :myanmar: http://myanmarbusticket.com/
 - :cn: http://www.chinabusguide.com/
 
 #### :paperclip: Links:
