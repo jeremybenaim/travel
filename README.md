@@ -2,7 +2,7 @@
 
 [Click here to open the map :earth_asia:](https://www.google.com/maps/d/u/1/edit?mid=1bnooPmMNt33NSRK2YAVpEtV_uGA)
 
-Currently in: Hpa-An, Myanmar :myanmar:
+Currently in: Yangon, Myanmar :myanmar:
 
 ##### Map legend:
 - ![Blue pin](http://maps.google.com/mapfiles/kml/paddle/blu-blank_maps.png) current location
@@ -13,6 +13,8 @@ Currently in: Hpa-An, Myanmar :myanmar:
 
 Date            | Leg                                                                                                                                                                                                          | Price                  | Distance (km) | Total Distance (km) |
 ----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|---------------|---------------------|
+ 9 - 11 Feb     | :hotel: Stay in Yangon ([Shwe Yo Vintage Hostel](https://www.agoda.com/shwe-yo-vintage-hostel/hotel/yangon-mm.html))                                                                                         | ≈13.67€ (20,000 MMK)   | -             | 39,600              |
+ 8 - 9 Feb      | :hotel: Stay in Yangon ([Pickled Tea Hostel](https://www.agoda.com/pickled-tea-hostel/hotel/yangon-mm.html))                                                                                                 | 11.68€                 | -             | 39,600              |
  8 Feb          | Hpa-An :bus: Yangon                                                                                                                                                                                          | ≈3.43€ (5,000 MMK)     | 289           | 39,600              |
  7 - 8 Feb      | :hotel: Stay in Hpa-An ([Soe Brothers Guesthouse](https://www.agoda.com/soe-brothers-guesthouse/hotel/hpa-an-mm.html))                                                                                       | ≈6.56€ (7 USD)         | -             | 39,311              |
  5 - 7 Feb      | :hotel: Stay in Hpa-An ([Hotel Angels Land](https://www.agoda.com/hotel-angels-land/hotel/hpa-an-mm.html))                                                                                                   | 36.50€                 | -             | 39,311              |
