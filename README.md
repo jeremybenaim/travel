@@ -2,7 +2,7 @@
 
 [Click here to open the map :earth_asia:](https://www.google.com/maps/d/u/1/edit?mid=1bnooPmMNt33NSRK2YAVpEtV_uGA)
 
-Currently in: Yangon, Myanmar :myanmar:
+Currently in: Ngapali, Myanmar :myanmar:
 
 ##### Map legend:
 - ![Blue pin](http://maps.google.com/mapfiles/kml/paddle/blu-blank_maps.png) current location
@@ -13,6 +13,8 @@ Currently in: Yangon, Myanmar :myanmar:
 
 Date            | Leg                                                                                                                                                                                                          | Price                  | Distance (km) | Total Distance (km) |
 ----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|---------------|---------------------|
+ 11 - 13 Feb    | :hotel: Stay in Ngapali ([Ngapali Banyan Hostel 2](https://www.agoda.com/ngapali-banyan-hostel-2/hotel/ngapali-mm.html))                                                                                     | 31€                    | -             | 39,991              |
+ 11 Feb         | Yangon :bus: Ngapali                                                                                                                                                                                         | ≈11.25€ (16,500 MMK    | 391           | 39,991              |
  9 - 11 Feb     | :hotel: Stay in Yangon ([Shwe Yo Vintage Hostel](https://www.agoda.com/shwe-yo-vintage-hostel/hotel/yangon-mm.html))                                                                                         | ≈13.67€ (20,000 MMK)   | -             | 39,600              |
  8 - 9 Feb      | :hotel: Stay in Yangon ([Pickled Tea Hostel](https://www.agoda.com/pickled-tea-hostel/hotel/yangon-mm.html))                                                                                                 | 11.68€                 | -             | 39,600              |
  8 Feb          | Hpa-An :bus: Yangon                                                                                                                                                                                          | ≈3.43€ (5,000 MMK)     | 289           | 39,600              |
