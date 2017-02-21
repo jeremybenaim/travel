@@ -2,7 +2,7 @@
 
 [Click here to open the map :earth_asia:](https://www.google.com/maps/d/u/1/edit?mid=1bnooPmMNt33NSRK2YAVpEtV_uGA)
 
-Currently in: Yangon, Myanmar :myanmar:
+Currently in: Bangkok, Thailand :thailand:
 
 ##### Map legend:
 - ![Blue pin](http://maps.google.com/mapfiles/kml/paddle/blu-blank_maps.png) current location
@@ -14,7 +14,7 @@ Currently in: Yangon, Myanmar :myanmar:
 Date             | Leg                                                                                                                                                                                                          | Price                  | Distance (km) | Total Distance (km) |
 -----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|---------------|---------------------|
  25 Feb          | Bangkok :airplane: San Francisco                                                                                                                                                                             | 436€                   | 12,737        | 54,509              |
- 21 - 25 Feb     | :hotel: Stay in Bangkok                                                                                                                                                                                      | ?                      | -             | 41,772              |
+ 21 - 24 Feb     | :hotel: Stay in Bangkok ([A7 Hidden Hostel](https://www.agoda.com/a7-hidden-hostel/hotel/bangkok-th.html))                                                                                                   | 24€                    | -             | 41,772              |
  21 Feb          | Yangon :airplane: Bangkok                                                                                                                                                                                    | ≈32.01€ (34 USD)       | 595           | 41,772              |
  19 - 21 Feb     | :hotel: Stay in Yangon ([Shwe Yo Vintage Hostel](https://www.agoda.com/shwe-yo-vintage-hostel/hotel/yangon-mm.html))                                                                                         | ≈13.90€ (20,000 MMK)   | -             | 41,177              |
  18 - 19 Feb     | Mrauk-U :bus: Yangon                                                                                                                                                                                         | ≈14.47€ (21,000 MMK)   | 793           | 41,177              |
